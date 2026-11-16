@@ -1,0 +1,19 @@
+##  Python network scanner
+
+## About
+my second python project designed to scan networks. With the users choice to pick which ports to scan 
+
+## Features
+
+  Scans a user-specified IP address
+  Allows user-defined port ranges
+  Reports open and closed ports
+  Uses python sockets
+
+  ## Technologies
+   
+   Python
+   Socket library
+
+
+
